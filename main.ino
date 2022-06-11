@@ -52,5 +52,5 @@ void loop(void)
   Serial.print("Power:         "); Serial.print(power_mW); Serial.println(" mW");
   Serial.println("");
 
-  delay(1000);
+  delay(250);
 }
